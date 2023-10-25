@@ -1,1 +1,1 @@
-# Atrium-Segmentation
+# Atrium Segmentation
